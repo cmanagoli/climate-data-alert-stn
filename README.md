@@ -14,3 +14,6 @@ Climate ID: 2400300
 Summary  
 ![](Figure_1.png)
 
+
+Data Source: [Environment and Natural Resources, Government of Canada](https://climate.weather.gc.ca/)
+
